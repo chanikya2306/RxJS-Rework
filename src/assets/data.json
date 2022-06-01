@@ -1,0 +1,31 @@
+{
+    "FirstName": "Suresh",
+    "LastName": "Chamikya",
+    "Gender": "Male",
+    "DOB": "23 JUNE 1994",
+    "PhoneNumber": 9515179896,
+    "Email": "sureshchanikya@gmail.com",
+    "refferdBy": {
+        "name": "Sharath",
+        "mobile_number": 123565889,
+        "place": "Bangalore",
+        "refferd": true
+    },
+    "Friends Details": [
+        {
+            "name": "Lokesh",
+            "Contact": 9630258741,
+            "place": "Bangalore"
+        },
+        {
+            "name": "Paramesh",
+            "Contact": 7412365890,
+            "place": "Bangalore"
+        },
+        {
+            "name": "Subash",
+            "Contact": 8974563210,
+            "place": "Bangalore"
+        }
+    ]
+}
